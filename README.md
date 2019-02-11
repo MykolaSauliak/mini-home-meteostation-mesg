@@ -2,6 +2,12 @@
 
 ![alt text](https://raw.githubusercontent.com/MykolaSauliak/mini-home-meteostation-mesg/master/img/main_photo.jpg)
 
+## Details are used in this project
+
+ - BME280 I2C Temperature Humidity Pressure Sensor
+ - arduino button
+ - Arduino UNO
+
 ## firstly 
 
 deploy https://github.com/MykolaSauliak/emailMesgService and https://github.com/MykolaSauliak/iotaMesgExplorer
