@@ -1,6 +1,6 @@
 # Meteostation with writting data to IOTA blockchain
 
-![alt text](https://raw.githubusercontent.com/MykolaSauliak/mini-home-meteostation-mesg/master/img/main_photo.png)
+![alt text](https://raw.githubusercontent.com/MykolaSauliak/mini-home-meteostation-mesg/master/img/main_photo.jpg)
 
 ## firstly 
 
