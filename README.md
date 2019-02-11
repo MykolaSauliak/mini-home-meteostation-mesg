@@ -1,6 +1,8 @@
 # Meteostation with writting data to IOTA blockchain
 
-## firtly 
+![alt text](https://raw.githubusercontent.com/MykolaSauliak/mini-home-meteostation-mesg/master/img/main_photo.png)
+
+## firstly 
 
 deploy https://github.com/MykolaSauliak/emailMesgService and https://github.com/MykolaSauliak/iotaMesgExplorer
 
@@ -17,7 +19,7 @@ mesg-core service deploy https://github.com/MykolaSauliak/iotaMesgExplorer
 
 # FOR YOU ARDUINO BOARD
 
-## download this file https://gist.githubusercontent.com/rwaldron/0519fcd5c48bfe43b827/raw/f17fb09b92ed04722953823d9416649ff380c35b/PingFirmata.ino
+download this file https://gist.githubusercontent.com/rwaldron/0519fcd5c48bfe43b827/raw/f17fb09b92ed04722953823d9416649ff380c35b/PingFirmata.ino
 and run on your board
 
 run
