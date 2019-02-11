@@ -1,0 +1,16 @@
+{
+  "name": "mesg-meteostation-application",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "reset": "firmata-party uno --debug",
+    "inter": "interchange install hc-sr04 -a uno -p /dev/ttyUSB0 --firmata"
+  },
+  "dependencies": {
+    "firmata-party": "^1.5.10",
+    "johnny-five": "^1.0.0",
+    "mesg-js": "^2.0.0",
+    "nodebots-hcsr04": "git+https://github.com/ajfisher/nodebots-hcsr04.git",
+    "nodebots-interchange": "^1.3.0"
+  }
+}
